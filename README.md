@@ -12,3 +12,5 @@ Insights and recommendations are provided on the following key areas:
 - City Performance: Evaluation of premium distribution by city to identify top-performing locations with the highest total premium values.
 - Claim Analysis: Evaluation of claim reasons to understand the most common causes for insurance claims and identify patterns in customer behavior.
 - Premium Analysis: Evaluation of premium tiers and their distribution to understand the frequency and popularity of different premium levels.
+
+An Excel Dashboard can be found [here.](https://public.tableau.com/app/profile/mustafa.zkul/viz/GlobalELectronics/SalesDashboard)
