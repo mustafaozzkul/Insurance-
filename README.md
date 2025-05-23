@@ -13,4 +13,6 @@ Insights and recommendations are provided on the following key areas:
 - Claim Analysis: Evaluation of claim reasons to understand the most common causes for insurance claims and identify patterns in customer behavior.
 - Premium Analysis: Evaluation of premium tiers and their distribution to understand the frequency and popularity of different premium levels.
 
+The Excel File of the project can be found [here]()
+
 An Excel Dashboard can be found [here.](Dashboard.pdf)
