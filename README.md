@@ -13,6 +13,29 @@ Insights and recommendations are provided on the following key areas:
 - Claim Analysis: Evaluation of claim reasons to understand the most common causes for insurance claims and identify patterns in customer behavior.
 - Premium Analysis: Evaluation of premium tiers and their distribution to understand the frequency and popularity of different premium levels.
 
-The Excel File of the project can be found [here]()
+The Excel File of the project can be found [here.](Insurance_dataset.xlsx)
 
 An Excel Dashboard can be found [here.](Dashboard.pdf)
+
+# Executive Summary
+## Overview of Findings
+
+Key performance indicators have shown that the insurance company has Middle-aged customers, Avg Premium Amount is $ 1,643 and Most of the customers, most customers remain with the company for at least 5 years, indicating strong customer loyalty and long-term engagement.
+
+## Customer Analysis
+- Company has more female customer than male customer.
+- Company's customers' average age is 50.
+- Company has 1000 customer.
+- The company gained the highest number of customers in January and May.
+
+## City Performance
+- North David is the city that receives the highest premium.
+
+## Claim Analysis
+- The majority of claims are caused by natural disasters and fires.
+
+## Premium Analysis
+- Most of the Insurance premium is in the medium class and fallowed by high and low.
+
+![Dashboard]()
+
