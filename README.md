@@ -4,7 +4,7 @@
 
 The Insurance Data Analysis Project is a comprehensive Excel-based exploration of customer and policy data in the insurance industry. This project aims to uncover key insights that can support data-driven decision-making for optimizing policy management, and overall business performance.
 
-The analysis leverages Excel features such as formulas, charts, pivot tables, and dashboard visualizations to present findings in a clear and engaging way.
+The analysis leverages Excel features such as formulas(IndexMatch, XLookup), charts, pivot tables, and dashboard visualizations to present findings in a clear and engaging way.
 
 Insights and recommendations are provided on the following key areas:
 
@@ -46,5 +46,4 @@ Based on the uncovered insights, the following recommendations have been provide
 
 - The company's customers tend to choose high or medium-class premiums, suggesting that the company may consider raising premium rates.
 - In February and November, the number of new customers declines. The company should consider launching new campaigns during these months to attract more customers.
-- Most of the claims occurs due to Natural disaster and fire, company can create a new
 - Most claims result from natural disasters and fires. The company should develop a more comprehensive policy to cover such situations.
