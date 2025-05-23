@@ -37,5 +37,14 @@ Key performance indicators have shown that the insurance company has Middle-aged
 ## Premium Analysis
 - Most of the Insurance premium is in the medium class and fallowed by high and low.
 
-![Dashboard]()
+![Dashboard](https://github.com/mustafaozzkul/Insurance-/blob/main/Dashboard%20png.png?raw=true)
 
+
+# Recommendations:
+
+Based on the uncovered insights, the following recommendations have been provided:
+
+- The company's customers tend to choose high or medium-class premiums, suggesting that the company may consider raising premium rates.
+- In February and November, the number of new customers declines. The company should consider launching new campaigns during these months to attract more customers.
+- Most of the claims occurs due to Natural disaster and fire, company can create a new
+- Most claims result from natural disasters and fires. The company should develop a more comprehensive policy to cover such situations.
